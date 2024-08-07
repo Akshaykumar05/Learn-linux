@@ -8,3 +8,8 @@ Hello Folks, Welcome to this Learn-Linux repository! This repo will contain the 
 The Linux Operating System is a type of operating system that is similar to Unix, and it is built upon the Linux Kernel. The Linux Kernel is like the brain of the operating system because it manages how the computer interacts with its hardware and resources. It makes sure everything works smoothly and efficiently. But the Linux Kernel alone is not enough to make a complete operating system. 
 
 To create a full and functional system, the Linux Kernel is combined with a collection of software packages and utilities, which are together called Linux distributions. These distributions make the Linux Operating System ready for users to run their applications and perform tasks on their computers securely and effectively. Linux distributions come in different flavors, each tailored to suit the specific needs and preferences of users.
+-------------------------------
+### Day-1
+* Why Linux
+* What is the scope of Linux in the Industry.
+* What are the roles you can work after having lnowledge of Linux.
