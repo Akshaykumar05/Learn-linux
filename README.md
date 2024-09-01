@@ -13,3 +13,7 @@ To create a full and functional system, the Linux Kernel is combined with a coll
 * Why Linux
 * What is the scope of Linux in the Industry.
 * What are the roles you can work after having knowledge of Linux.
+### Day-2
+* Linux Flavours and Distributors 
+* VMware
+* Installation
