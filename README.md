@@ -14,6 +14,9 @@ To create a full and functional system, the Linux Kernel is combined with a coll
 * What is the scope of Linux in the Industry.
 * What are the roles you can work after having knowledge of Linux.
 ### Day-2
-* Linux Flavours and Distributors 
-* VMware
-* Installation
+1. Linux Flavours and Distributors
+   * Some distributions, such as Fedora and Red Hat Enterprise Linux from Red Hat, openSUSE from SUSE, Ubuntu from Canonical, and Oracle Linux from Oracle, are commercial, while others, such as Debian and Slackware, are community-developed.
+3. VMware
+4. Installation
+
+
