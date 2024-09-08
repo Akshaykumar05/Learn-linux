@@ -1,0 +1,264 @@
+=======================================================
+          Day-1 Session 
+
+ Linux Training 
+    OR
+ Linux Classes
+    OR
+ RedHat linux Classes
+=======================================================
+
+ABC person ==> XYZ Company ==> Join ==> Linux Admin 
+
+
+XYZ Company  ==> n number of projects ==> aadhar card project OR bank of america OR Mother dairy OR ICICI bank
+
+=======================================================
+
+ABC person  ==> XYZ company  ==> n number of projects ==> n number of application/Softwares/Tools/utility/Services 
+
+
+Resouces
+
+1- HR team
+2- Sales Team
+3- management team
+4- tech support   ==> linux admins
+5- develeopment team                  ==> Project ==> handle 
+6- report management team
+7- network management
+8- security management team
+9- other team as well
+
+=======================================================
+Wipro Company ====> Floor  ==> bank of america [project name]
+=======================================================
+Third party
+HCL ==> Nokia <== XYZ project
+=======================================================
+linux Admin 
+
+1- Direct XYZ Company 
+2- XYZ projects 
+3- Third party ==> vendor
+
+======================================================= 
+
+Job Role
+
+1- ON Role
+
+2- OFF Role
+
+======================================================= 
+Computer Machine ==> market ==> purchase
+
+=======================================================
+Commputer machine [H/W] <=== Motherboard ==> RAM + CPU + DISK
+
+XYZ Company ==> abc project ==> as per need  ==> Application/Services/Tools/Utiltiy/Software
+
+machine [H/W]  <===  operating System   <=====  Application/Services/Tools/Utiltiy/Software
+                    Windows/linux based
+
+=======================================================
+gaurav ==> HCL ==> XYZ project  ==> 100 machine ==>  Linux based operating system
+       ==> HCL ==> XYZ project  ==>  50 machin  ==>  Windows 
+=======================================================
+
+Vendor
+
+1- H/W Provider Vendor  ==> Dell/HP/others
+2- OS provider Vendor   ==> Mircrosoft/redhat/Apple
+3- Application provider vendor
+     Types of application provider vendor
+     1- OS provider itself     ==> MS office
+     2- Global application provider vendor/third party ==> Oracle Database
+     3- Inhouse Application 
+  
+machine [H/W] <== OS  <=== Types of application 
+
+=======================================================
+
+1- H/W Planning
+
+2- operating System planning
+
+3- Application/Software/Tools/utility planning
+
+=======================================================
+gaurav  ==>  office machine  ==> remote login 
+
+
+Types of machine ?
+
+1- Physical machine
+2- Virtual machine 
+3- Cloud based machine ==> AWS Cloud, Google cloud, Azure Cloud other as well
+
+
+=======================================================
+H/W [machine]   <=== Operating System  <=== Application/Software/Tools
+                      Same                     same   <=== Command  <=== same
+=======================================================
+What is Software ?
+What is the operating system ?
+
+=======================================================
+laptop/Desktop/Tower machine/Rackmounted Server
+=======================================================
+Cloud based Infra
+=======================================================
+
+machine  <=== Linux  <=== linux based application
+
+======================================================= 
+
+Types of login method ?
+
+1- local to local login  <===  username + password 
+2- Remote Login          <===  IP address + username + password
+
+=======================================================
+mobile [H/W] <=== OS  <=== Appliaction
+             <=== SIM <=== Uniq Mobile Number  <== activate <== dial  
+
+=======================================================
+Computer Machine [H/W] <== OS [Windows/Linux] <=== Application
+Mobile [H/W]           <== OS [Andoid/IOS]    <=== Application  
+
+=======================================================
+linux admin ===> REDHAT linux   ==> RHEL ==> latest version  ==> RHEL-5 RHEL-6 RHEL-7 RHEL-8 RHEL-9
+=======================================================
+mobile                 ==> Device
+
+mobile vendor          ==> Nokia  Vivo Oppo Sumsung Mobile other vendors
+
+             product  ==> samsung -- grand
+                   
+                       version    -- grand version2  
+           
+                                 OS -- Adroid /ISO
+
+                                        Application  ==> versions
+
+=======================================================
+gaurav ==> device ==> mobile  ==> shop ==> vendor select as per need ==> H/W <== OS <== default application + operator [SIM card]  ==> active ==> call ==> YES
+raju   ==> device ==> mobile  ==> shop ==> vendor select as per need ==> H/W <== OS <== default application  + operator [SIM card] ==> active ==> call ==> YES
+=======================================================
+H/W  <== OS <== Application <== IP Address  <== machine  <== remote login  <== manage
+
+=======================================================
+Unix    ==> 1969 ==> unix vendors   ==> unix based operating system ==> XYZ NAME
+
+Linux   ==> 1991 ==> "Linus Torvalds" ==> open source operating system ==> Linux vendors ==> linux based operating system ==> name ==> launch
+
+
+=======================================================
+Linux Training
+=======================================================
+Linux flavors ?
+
+Redhat Linux ==> RHEL  ==> version ==> RHEL-9
+Ubuntu Linux
+Centos Linux
+kali Linux
+Suse Linux
+=======================================================
+linux admin
+
+XYZ Company
+
+ABC project
+
+Linux based Machine 
+
+Linux Team
+
+Flavor ==> Redhat   ubuntu   Suse   Windows 
+
+works  ==> rhel9   ubuntu  centos   ==> Linux machine 
+
+=====================================================
+RedHat ==> Course name  ==> RHCSA ==> Course Content  ==> n number of topics
+=====================================================
+Microsoft ==> Course  ==> MCSA
+=====================================================
+Linux 
+
+Redhat Linux
+
+rhel
+
+rhel-9
+
+rhcsa
+
+====================================================
+H/W
+OS vendor          ==> OS installation IMAGE ==> Linux Flavor ==> Webiste ==> Download  ==> bootable image OR ISO image ==> download ==> install 
+Application vendor ==> software ==> install ==> setup ==> download  ==> install 
+====================================================
+VLC Media Player  ==> software  ==> website  ==> download  ==> install 
+====================================================
+H/W [machine]
+
+1- with pre installed operating system     ==> we can change the OS as per needs.
+2- without pre installed operating system  ==> we can install any Operating system as per needs.
+
+====================================================
+Software         ==> setup
+OS installation  ==> bootable image or ISO image
+====================================================
+RHEL-9 practise  ==> RHEL-9 
+Ubuntu practise  ==> ubuntu 
+Suse linux       ==> Suse linux 
+====================================================
+office Machine  <== XYZ Command 
+persoonal machine <== XYZ Command not found
+
+====================================================
+
+Linux admin ==> login  ==> Linux machine  ==> task  ==> using command line
+
+Total command ==> 
+Total command ==> 
+
+# xyz command  ==> nagios  ==> install ==>  YES  ==> command  ==> execute 
+
+====================================================
+
+# clear   [ to clear screen ]
+
+#  useradd  vinit   [ to add any user ]
+
+# userdel vinit  
+
+# reboot 
+
+# date  
+
+# cal 
+
+
+==================================================
+
+sat-3
+sun-3
+Practise  ==> 1 hours or one and half
+
+100 Hours content  OR Recording around 
+
+==================================================
+ISO Donwload 
+machine installation 
+login 
+file
+Folder
+==================================================
+
+ 
+
+
+
+   
