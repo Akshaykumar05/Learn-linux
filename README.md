@@ -50,4 +50,6 @@ To create a full and functional system, the Linux Kernel is combined with a coll
 * gedit filename (GUI-based editor for desktop environments)
 * Description: Opens the specified file in a text editor. If the file does not exist, it is created.
 
-
+---------------
+### Resources:
+[Learn Linux Fater: Blog](https://www.linkedin.com/pulse/learn-linux-faster-50-actionable-tasks-pros-devops-dipu-singh--igvlf/?trackingId=CA4kA5WPSCqq0jpIyZd6SA%3D%3D)
