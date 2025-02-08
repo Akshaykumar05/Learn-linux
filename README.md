@@ -53,3 +53,26 @@ To create a full and functional system, the Linux Kernel is combined with a coll
 ---------------
 ### Resources:
 [Learn Linux Fater: Blog](https://www.linkedin.com/pulse/learn-linux-faster-50-actionable-tasks-pros-devops-dipu-singh--igvlf/?trackingId=CA4kA5WPSCqq0jpIyZd6SA%3D%3D)
+
+-------------
+## Other industry used commands:
+### 1. SCP Command
+   * The scp (Secure Copy Protocol) command in Linux is used to securely transfer files between a local machine and a remote server (or between two remote servers) over SSH (Secure Shell). It ensures encrypted file transfer, making it safer than traditional cp or ftp.
+
+#### Common Use Cases
+1. Copy a file from local to remote
+   ```
+   scp file.txt user@remote_host:/path/to/destination/
+   ```
+2. Copy a file from remote to local
+   ```
+   scp user@remote_host:/path/to/file.txt /local/destination/
+   ```
+3. Copy a directory recursively
+   ```
+   scp -r local_folder user@remote_host:/remote/destination/
+   ```
+4. Copy between two remote servers (without downloading locally)
+   ```
+   scp user1@remote1:/path/to/file user2@remote2:/path/to/destination
+   ```
